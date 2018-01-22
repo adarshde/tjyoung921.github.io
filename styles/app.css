@@ -357,8 +357,8 @@ select:focus, button:focus {
 
 #pdfLink{
 	position: absolute;
-	top: 23%;
-	left: 40px;
+	top: 30px;
+	left: 80px;
 }
 
 #pdfLink img{
